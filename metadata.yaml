@@ -1,0 +1,26 @@
+_repo: The-Little-Maid-of-Israel_44601
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44601-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wight, Emma Howard
+    gutenberg_agent_id: '42831'
+    url: http://www.gutenberg.org/2009/agents/42831
+description: ''
+gutenberg_issued: '2014-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Elisha (Biblical prophet) -- Juvenile fiction'
+- !lcsh 'Bible stories, English -- Old Testament'
+- !lcsh 'Naaman, the Syrian -- Juvenile fiction'
+title: The Little Maid of Israel
+url: http://www.gutenberg.org/ebooks/44601
